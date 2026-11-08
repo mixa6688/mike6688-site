@@ -18,4 +18,7 @@ python -m http.server 8080
 1. **Логотип** — файл `assets/logo.png` (ваше фото).
 2. **Контакты** — блок `#contact`: телефон, Telegram, e-mail, адрес, часы работы.
 3. **Форма** — сейчас демо; подключите [Formspree](https://formspree.io), Telegram Bot API или свой бэкенд.
-4. **Публикация** — GitHub Pages, Netlify, Vercel или любой хостинг статики (достаточно загрузить папку целиком).
+4. **GitHub Pages** — репозиторий `mike6688-site`, ветка `main`, папка `/` (корень).
+
+После публикации сайт будет доступен по адресу:  
+`https://<ваш-логин-github>.github.io/mike6688-site/`
