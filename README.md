@@ -21,4 +21,4 @@ python -m http.server 8080
 4. **GitHub Pages** — репозиторий `mike6688-site`, ветка `main`, папка `/` (корень).
 
 После публикации сайт будет доступен по адресу:  
-`https://<ваш-логин-github>.github.io/mike6688-site/`
+`https://mixa6688.github.io/mike6688-site/`
